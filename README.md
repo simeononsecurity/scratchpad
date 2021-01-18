@@ -1,0 +1,2 @@
+# scratchpad
+Notes and tidbits
